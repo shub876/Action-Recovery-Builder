@@ -10,15 +10,15 @@ on:
       MANIFEST_BRANCH:
         description: 'MANIFEST_BRANCH'
         required: true
-        default: 'twrp-12.1'
+        default: 'twrp-14.1'
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/shub876/recovery_fire.git'
+        default: 'https://github.com/shub876/recovery_device_xiaomi_fire-TWRP.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'twrp-12.1'
+        default: 'miui-14'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
