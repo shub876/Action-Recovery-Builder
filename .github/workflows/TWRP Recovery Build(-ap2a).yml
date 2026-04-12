@@ -1,4 +1,4 @@
-name: TWRP Recovery Build
+name: TWRP Recovery Build(-ap2a)
 
 on:
   workflow_dispatch:
